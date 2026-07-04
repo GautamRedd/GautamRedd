@@ -1,42 +1,66 @@
-
 # Hi 👋, I'm Sai Goutham Reddy Komatireddy
 
-### Software Engineer | Full Stack Developer | Python • Django •  .NET • React • Azure • AI
+### Software Engineer | Full Stack Developer
+
+#### .NET • Python • Django • React • Angular • Azure • AI • Machine Learning
 
 Building scalable enterprise applications, cloud-native solutions, and intelligent software systems.
 
 <p align="center">
-<a href="mailto:gautamreddy37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sai-goutham-reddy-864a492a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/GautamRedd"><img src="https://img.shields.io/github/followers/GautamRedd?style=for-the-badge"/></a>
+
+<a href="mailto:gautamreddy37@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sai-goutham-reddy-864a492a0/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GautamRedd">
+<img src="https://img.shields.io/github/followers/GautamRedd?style=for-the-badge"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=GautamRedd&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I'm a Software Engineer passionate about designing enterprise applications that solve real business problems through clean architecture, scalable APIs, and modern cloud technologies.
+I'm a Software Engineer passionate about designing enterprise software that solves real business problems through clean architecture, scalable APIs, cloud technologies, and modern engineering practices.
 
-Over the past several years I've worked across healthcare, energy, and enterprise domains developing backend services, full-stack web applications, cloud deployments, and data-driven platforms. My professional experience includes  Python, Django, ASP.NET Core, .NET, REST APIs, React, Angular, SQL Server, PostgreSQL, Azure, Docker, Kubernetes, and CI/CD.
+My professional experience spans healthcare, energy, and enterprise domains where I've built backend systems, full-stack applications, cloud-native services, automation platforms, and data-driven solutions.
 
-Beyond enterprise software, I enjoy exploring Artificial Intelligence, Machine Learning, and Large Language Models through practical projects that combine software engineering with intelligent automation.
+I enjoy building software that is reliable, scalable, maintainable, and easy to extend.
+
+Beyond enterprise software, I actively explore Artificial Intelligence, Machine Learning, and Large Language Models through practical software projects.
 
 ---
 
-# Professional Journey
+# 💼 Professional Experience
 
 ## Halliburton
 
 **Full Stack Engineer**
 
-- Enterprise backend development
-- REST API development
-- Data pipelines & automation
-- PostgreSQL & SQL Server
-- Azure cloud services
+Houston, Texas
+
+### Responsibilities
+
+- Enterprise application development
+- Backend REST API development
+- Cloud-native application development
 - Production support
-- Scalable web applications
+- Database optimization
+- Workflow automation
+- Azure cloud services
+- PostgreSQL & SQL Server
+- Docker-based deployments
+
+**Technologies**
+
+.NET • Python • Django • React • Azure • Docker • PostgreSQL
 
 ---
 
@@ -44,12 +68,21 @@ Beyond enterprise software, I enjoy exploring Artificial Intelligence, Machine L
 
 **Application Developer**
 
+Houston, Texas
+
+### Responsibilities
+
 - Customer-facing web applications
 - Business workflow automation
 - Backend API development
 - Database optimization
 - Reporting platforms
 - Azure deployments
+- Enterprise software modernization
+
+**Technologies**
+
+.NET • ASP.NET Core • React • SQL Server • Azure
 
 ---
 
@@ -57,149 +90,301 @@ Beyond enterprise software, I enjoy exploring Artificial Intelligence, Machine L
 
 **Software Engineer**
 
+Hyderabad, India
+
+### Responsibilities
+
 - Healthcare platforms
 - Clinical reporting systems
 - REST APIs
-- Secure backend services
-- Database design
+- Backend development
+- Database engineering
 - Linux automation
+- Secure enterprise applications
+
+**Technologies**
+
+.NET • C# • SQL Server • REST APIs
 
 ---
 
-# Education
+# 🎓 Education
 
-## Master of Science — Engineering Data Science
+## University of Houston
 
-**University of Houston**
+### Master of Science
+
+**Engineering Data Science**
 
 Houston, Texas
 
-Focused on Machine Learning, Data Engineering, Artificial Intelligence, Cloud Computing, and Software Engineering.
+Focused on
+
+- Machine Learning
+- Artificial Intelligence
+- Data Engineering
+- Cloud Computing
+- Software Engineering
 
 ---
 
-## Bachelor of Technology — Electronics & Communication Engineering
+## CVR College of Engineering
 
-**CVR College of Engineering**
+### Bachelor of Technology
+
+Electronics & Communication Engineering
 
 Hyderabad, India
 
-Built a strong foundation in software engineering, algorithms, databases, networking, and object-oriented programming.
+Coursework included
+
+- Data Structures
+- Algorithms
+- Database Systems
+- Networking
+- Object-Oriented Programming
+- Software Engineering
 
 ---
 
-# Technical Expertise
-
-## Enterprise Backend Development
-
-Designing scalable backend applications using **Python**, **Django**, **FastAPI**, **ASP.NET Core**, **.NET**, REST APIs, authentication, and distributed application architecture.
-
-## Full Stack Development
-
-Building responsive web applications using **React**, **Angular**, JavaScript, TypeScript, HTML5, CSS3, and modern UI development practices.
-
-## Cloud Engineering
-
-Deploying enterprise applications using **Microsoft Azure**, Azure App Services, Azure SQL, Docker, Kubernetes, GitHub Actions, and CI/CD pipelines.
-
-## Database Engineering
-
-Working with SQL Server, PostgreSQL, Oracle, MongoDB, schema design, performance tuning, indexing, ETL pipelines, and reporting systems.
-
-## Artificial Intelligence
-
-Developing intelligent applications using Machine Learning, GPT-based models, predictive analytics, data preprocessing, and model evaluation.
+# 🚀 Featured Projects
 
 ---
 
-# Featured Projects
+## 💼 Personal Portfolio
+
+A modern portfolio website showcasing my professional experience, projects, technical expertise, and software engineering journey.
+
+### Features
+
+- Responsive Design
+- Modern UI
+- Smooth Animations
+- Project Showcase
+- Experience Timeline
+- Technical Skills
+- Resume Download
+- Contact Section
+
+**Tech Stack**
+
+React • TypeScript • Tailwind CSS • Vite • Framer Motion
+
+Repository
+
+https://github.com/GautamRedd/portfolio
+
+---
 
 ## 🤖 Multi-Service AI Chatbot Web Application
 
-Enterprise-inspired chatbot platform integrating multiple services into a single containerized solution.
+A multi-service chatbot platform integrating Django, React, Flutter, and a GPT-2 language model using Docker Swarm.
 
 ### Highlights
 
-- Django backend APIs
-- React web application
-- Flutter web interface
-- GPT-2 language model integration
-- Dockerized architecture
-- Docker Swarm orchestration
-- Nginx deployment
+- Django Backend APIs
+- React Frontend
+- Flutter Web Application
+- GPT-2 Integration
+- Docker Containers
+- Docker Swarm
+- Nginx Deployment
 
 **Tech Stack**
 
 Python • Django • React • Flutter • Docker • Docker Swarm • GPT-2 • Nginx
 
-Repository:
+Repository
+
 https://github.com/GautamRedd/Chatbot_Web_Application
 
 ---
 
 ## 🧬 Colon Cancer Prediction Model
 
-Machine learning solution that predicts colon cancer types by combining clinical and pathological datasets.
+Machine Learning model that predicts colon cancer types using clinical and pathological datasets.
 
 ### Highlights
 
-- Data preprocessing
-- Feature engineering
-- Random Forest classification
-- Hyperparameter tuning
-- 94% prediction accuracy
-- 96% cross-validation score
-- Model evaluation & visualization
+- Data Cleaning
+- Feature Engineering
+- Random Forest Classification
+- Hyperparameter Tuning
+- 94% Test Accuracy
+- Model Evaluation
+- Visualization
 
 **Tech Stack**
 
 Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
----
+Repository
 
-# Technologies
-
-**Languages**
-
- Python • C# • SQL • JavaScript • TypeScript • Java
-
-**Backend**
-
-Django • FastAPI • Flask • ASP.NET Core • .NET • REST APIs • Entity Framework
-
-**Frontend**
-
-React • Angular • HTML5 • CSS3 • Flutter
-
-**Cloud & DevOps**
-
-Azure • Docker • Kubernetes • Azure DevOps • GitHub Actions • CI/CD
-
-**Databases**
-
-SQL Server • PostgreSQL • Oracle • MongoDB
+https://github.com/GautamRedd/colon_cancer_prediction_model
 
 ---
 
-# Currently Exploring
+## 📝 Context-Based Text Generation using LSTMs
+
+Deep Learning project that generates context-aware text using Long Short-Term Memory (LSTM) neural networks.
+
+### Highlights
+
+- Natural Language Processing
+- Sequence Modeling
+- LSTM Networks
+- Deep Learning
+- Text Prediction
+- Context Generation
+
+**Tech Stack**
+
+Python • TensorFlow • Keras • NLP • LSTM
+
+Repository
+
+https://github.com/GautamRedd/Context-Based-Text-Generation-using-LSTMs
+
+---
+
+## 🌦️ Weather App
+
+Responsive weather application providing real-time weather information using external APIs.
+
+### Features
+
+- Live Weather
+- City Search
+- Responsive Design
+- API Integration
+- Dynamic UI
+
+**Tech Stack**
+
+React • JavaScript • HTML • CSS • Weather API
+
+Repository
+
+https://github.com/GautamRedd/Weather_App
+
+---
+
+# 💻 Technical Expertise
+
+## Languages
+
+- C#
+- Python
+- SQL
+- Java
+- JavaScript
+- TypeScript
+
+---
+
+## Backend
+
+- .NET
+- ASP.NET Core
+- Django
+- FastAPI
+- Flask
+- REST APIs
+- Entity Framework
+
+---
+
+## Frontend
+
+- React
+- Angular
+- HTML5
+- CSS3
+- Tailwind CSS
+- Flutter
+
+---
+
+## Cloud & DevOps
+
+- Microsoft Azure
+- Docker
+- Kubernetes
+- Azure DevOps
+- GitHub Actions
+- CI/CD
+
+---
+
+## Databases
+
+- SQL Server
+- PostgreSQL
+- Oracle
+- MongoDB
+
+---
+
+## Artificial Intelligence
+
+- Machine Learning
+- Large Language Models
+- GPT Models
+- Data Science
+- Predictive Analytics
+- Natural Language Processing
+
+---
+
+# 📚 Currently Exploring
 
 - Generative AI
+- AI Agents
 - Large Language Models
 - Cloud Architecture
-- Distributed Systems
 - Kubernetes
+- Distributed Systems
 - System Design
+- Design Patterns
 
 ---
 
-# Let's Connect
+# 📈 GitHub Statistics
 
-📧 **Email:** gautamreddy37@gmail.com
+<p align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sai-goutham-reddy-864a492a0/
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GautamRedd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🐙 **GitHub:** https://github.com/GautamRedd
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamRedd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GautamRedd&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-> *"Building software that is scalable, maintainable, and impactful."*
+# 📫 Let's Connect
+
+📧 **Email**
+
+gautamreddy37@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/sai-goutham-reddy-864a492a0/
+
+🐙 **GitHub**
+
+https://github.com/GautamRedd
+
+---
+
+<p align="center">
+
+### ⭐ "Building software that is scalable, maintainable, and impactful."
+
+</p>
