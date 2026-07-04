@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Sai Goutham Reddy Komatireddy
 
-### Software Engineer | Full Stack Developer | .NET • Python • Django • React • Azure • AI
+### Software Engineer | Full Stack Developer | Python • Django •  .NET • React • Azure • AI
 
 Building scalable enterprise applications, cloud-native solutions, and intelligent software systems.
 
@@ -18,7 +18,7 @@ Building scalable enterprise applications, cloud-native solutions, and intellige
 
 I'm a Software Engineer passionate about designing enterprise applications that solve real business problems through clean architecture, scalable APIs, and modern cloud technologies.
 
-Over the past several years I've worked across healthcare, energy, and enterprise domains developing backend services, full-stack web applications, cloud deployments, and data-driven platforms. My professional experience includes ASP.NET Core, .NET, Python, Django, REST APIs, React, Angular, SQL Server, PostgreSQL, Azure, Docker, Kubernetes, and CI/CD.
+Over the past several years I've worked across healthcare, energy, and enterprise domains developing backend services, full-stack web applications, cloud deployments, and data-driven platforms. My professional experience includes  Python, Django, ASP.NET Core, .NET, REST APIs, React, Angular, SQL Server, PostgreSQL, Azure, Docker, Kubernetes, and CI/CD.
 
 Beyond enterprise software, I enjoy exploring Artificial Intelligence, Machine Learning, and Large Language Models through practical projects that combine software engineering with intelligent automation.
 
@@ -92,7 +92,7 @@ Built a strong foundation in software engineering, algorithms, databases, networ
 
 ## Enterprise Backend Development
 
-Designing scalable backend applications using **ASP.NET Core**, **.NET**, **Python**, **Django**, **FastAPI**, REST APIs, authentication, and distributed application architecture.
+Designing scalable backend applications using **Python**, **Django**, **FastAPI**, **ASP.NET Core**, **.NET**, REST APIs, authentication, and distributed application architecture.
 
 ## Full Stack Development
 
@@ -161,11 +161,11 @@ Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
 **Languages**
 
-C# • Python • SQL • JavaScript • TypeScript • Java
+ Python • C# • SQL • JavaScript • TypeScript • Java
 
 **Backend**
 
-ASP.NET Core • .NET • Django • FastAPI • Flask • REST APIs • Entity Framework
+Django • FastAPI • Flask • ASP.NET Core • .NET • REST APIs • Entity Framework
 
 **Frontend**
 
