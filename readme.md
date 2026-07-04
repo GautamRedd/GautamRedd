@@ -488,20 +488,19 @@ I'm particularly interested in building software within:
 
 ---
 
-# 📫 Let's Connect
+# 📬 Let's Connect
 
-📧 **Email**
+📧 Email  
+gautamreddy37@gmail.com
 
-**gautamreddy37@gmail.com**
-
-💼 **LinkedIn**
-
+💼 LinkedIn  
 https://www.linkedin.com/in/sai-goutham-reddy-864a492a0/
 
-🐙 **GitHub**
+🌐 Portfolio  
+https://saigouthamreddy-portfolio.vercel.app/
 
+🐙 GitHub  
 https://github.com/GautamRedd
-
 ---
 
 # 💡 Fun Fact
